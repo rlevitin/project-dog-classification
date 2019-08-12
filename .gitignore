@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+dogImages
+haarcascades
+lfw
+**data/
+**.vscode
+**Pipfile**
+**pycache**
+**.zip
+**.pt
